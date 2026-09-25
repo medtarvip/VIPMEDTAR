@@ -38,6 +38,7 @@
     "my-yts-api": "^1.0.2",
     "mysql-baileys": "^1.5.1",
     "nik-parser": "^1.0.1",
+    "node-cache": "^5.1.2",
     "node-fetch": "^2.6.1",
     "node-upload-images": "^1.0.1",
     "node-webpmux": "^3.1.0",

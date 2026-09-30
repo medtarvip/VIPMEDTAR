@@ -69,6 +69,6 @@
     "node": "22.x"
   },
   "scripts": {
-    "start": "node rentbot.js"
+    "start": "node index.js"
   }
 }

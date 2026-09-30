@@ -630,7 +630,7 @@ async function deleteFolderRecursive(path) {
 }
 
 require('./config');
-   const { default: makeWASocket, generateWAMessageFromContent, DisconnectReason, jidDecode, Browsers, proto, getContentType, useMultiFileAuthState, fetchLatestBaileysVersion, downloadContentFromMessage } = require("@adiwajshing/baileys")
+   const { default: makeWASocket, generateWAMessageFromContent, DisconnectReason, jidDecode, Browsers, proto, getContentType, useMultiFileAuthState, fetchLatestBaileysVersion, downloadContentFromMessage } = require("@whiskeysockets/baileys")
 const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 const readline = require("readline");
